@@ -1,3 +1,5 @@
+Copied from https://github.com/NTT123/Hackintosh-HP-Z420-MacOS-Sierra-10.12.3 incase it goes down. Credits to NTT123.
+
 How to install MacOS Sierra 10.12.3 on HP Z420 Workstation.
 
 Overall, we will use Unibeast to create a USB Installer.
